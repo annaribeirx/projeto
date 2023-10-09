@@ -4,3 +4,8 @@ body{
     font-family: Lora;
     text-align: center;
 }
+
+button{
+    background-color: rgb(180, 129, 206);
+    color: black;
+}
